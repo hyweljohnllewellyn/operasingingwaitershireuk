@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments for Opera Singing Waiters Hire UK</title>
-	<atom:link href="http://localhost/comments/feed" rel="self" type="application/rss+xml" />
+	<title>
+	Comments for Opera Singing Waiters Hire UK	</title>
+	<atom:link href="https://www.operasingingwaitershire.uk/comments/feed" rel="self" type="application/rss+xml" />
 	<link>https://www.operasingingwaitershire.uk/</link>
 	<description>Fun and Fantastic Surprise Opera Performances!</description>
-	<lastBuildDate>Wed, 19 Feb 2020 20:17:12 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.13</generator>
+	<lastBuildDate>Fri, 24 Sep 2021 19:39:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
